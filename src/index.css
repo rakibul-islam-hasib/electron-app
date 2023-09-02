@@ -1,0 +1,6 @@
+.title-bar {
+  background-color: #b02222; /* Change the background color as desired */
+  color: white;
+  padding: 5px;
+  -webkit-app-region: drag; /* Allows the title bar to be draggable */
+}
